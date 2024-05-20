@@ -3,8 +3,7 @@ package main
 import (
 	"net/http"
 
-	"users"
-
+	users "github.com/cameronconradt/choresapi/users"
 	"github.com/gin-gonic/gin"
 )
 
